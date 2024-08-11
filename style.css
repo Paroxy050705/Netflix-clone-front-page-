@@ -1,0 +1,411 @@
+.first{
+    height:900px;
+    width: 1300px;
+   
+    background-color: black;
+    background-size: cover;
+    background-color: black;
+    display: flex;
+    font-weight: bolder;
+}
+.fir1{
+    height:200px;
+    width: 1300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+
+}
+#netflix{
+    height: 100px;
+    width: 900px;
+    background-color: transparent;
+    /* margin-bottom: 90px; */
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(255, 3, 3);
+    padding-left: 140px;
+}
+.ff1{
+    height: 100px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    margin-bottom: 90px;
+
+}
+#lan{
+    height:80px;
+    width: 200px;
+    background-color: transparent;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bolder;
+}
+#check{
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: transparent;
+    color: white;
+}
+#sign{
+    height:80px;
+    width: 150px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 130px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#signin{
+    background-color: red;
+    color:white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#second{
+    height:900px;
+    width: 1300px;
+    background-color: palevioletred;
+    background-image: url("exploring-diverse-genres-with-tapsee-pannu-on-her-36th-v0-yt20gx8d0jfb1.webp");
+    background-size: cover;
+}
+#third{
+    height: 100px;
+    width: 1300px;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fourth{
+    height: 45px;
+    width: 1300px;
+    background-color: black;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fifth{
+    height: 30px;
+    width: 1300px;
+    background-color: black;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sixth{
+    height:100px;
+    width: 1300px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#email1{
+    font-size: 20px;
+    font-weight: 900;
+    background-color: transparent;
+    color: white;
+}
+#get1{
+    font-size: 18px;
+    background-color: red;
+    color:white;
+    height: 37px;
+    width: 180px;
+    margin-left: 8px;
+}
+#seventh{
+    height:600px;
+    width: 1300px;
+    background-image: url("AAAAQV65hzqirG2XrkCIWUk-pUg72vGG5zXTXdcI5nkZvWPV5PLYhD6WIMOXl3-sgkh7s-CNxzEJ3816kf_XS2kIyuNl9EwT_8tKIpJuP7CYkR4mFdxXV52DFaN7fMtRuGxIqds6RuAU1qESqU8haOeIBF6a.jpg");
+    background-color: red;
+    background-size: cover;
+}
+.long{
+    height: 500px;
+    width: 1300px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 10px solid rgb(92, 75, 75);
+
+}
+.e1{
+    height:300px;
+    width: 500px;
+    background-color:transparent;
+    /* display: flex; */
+    /* justify-content:center;
+    align-items: center; */
+
+}
+#ee1{
+    height:100px;
+    width: 500px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+    background-color: black;
+}
+#ee2{
+    height:100px;
+    width: 500px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: black;
+}
+#e2{
+    height:300px;
+    width: 500px;
+    background-color:transparent;
+    /* display: flex; */
+    background-image: url("004-how-to-watch-netflix-on-your-tv-2021.webp");
+    background-size: cover;
+    background-color: red;
+    border: 10px solid rgb(104, 96, 96);
+}
+.nine{
+    height: 500px;
+    width: 1300px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 10px solid rgb(92, 75, 75);
+
+}
+#n1{
+    height:300px;
+    width: 500px;
+    background-color:transparent;
+    /* display: flex; */
+    background-image: url("Netflix-la-gi.jpg");
+    background-size: cover;
+    background-color: red;
+    border: 10px solid rgb(104, 96, 96);
+}
+
+.n2{
+    height:300px;
+    width: 500px;
+    background-color:transparent;
+    /* display: flex; */
+    /* justify-content:center;
+    align-items: center; */
+
+}
+#nn1{
+    height:200px;
+    width: 500px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+    background-color: black;
+}
+#nn2{
+    height:100px;
+    width: 500px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    font-weight: 900;
+    background-color: black;
+}
+
+.long1{
+    height: 500px;
+    width: 1300px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 10px solid rgb(92, 75, 75);
+
+}
+.e11{
+    height:300px;
+    width: 500px;
+    background-color:transparent;
+    /* display: flex; */
+    /* justify-content:center;
+    align-items: center; */
+
+}
+#ee11{
+    height:100px;
+    width: 500px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+    background-color: black;
+}
+#ee22{
+    height:100px;
+    width: 500px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: black;
+}
+#e22{
+    height:300px;
+    width: 500px;
+    background-color:transparent;
+    /* display: flex; */
+    background-image: url("netflix_-_t.com-_image_3_-_row_11_EN_2__2_.webp");
+    background-size: cover;
+    background-color: rgb(255, 0, 0);
+    border: 10px solid rgb(104, 96, 96);
+}
+
+
+.nine1{
+    height: 500px;
+    width: 1300px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 10px solid rgb(92, 75, 75);
+
+}
+#n11{
+    height:300px;
+    width: 500px;
+    background-color:transparent;
+    /* display: flex; */
+    background-image: url("indian-kids-franchises-on-netflix-jpg.webp");
+    background-size: cover;
+    background-color: red;
+    border: 10px solid rgb(104, 96, 96);
+}
+
+.n22{
+    height:300px;
+    width: 500px;
+    background-color:transparent;
+    /* display: flex; */
+    /* justify-content:center;
+    align-items: center; */
+
+}
+#nn11{
+    height:200px;
+    width: 500px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+    background-color: black;
+}
+#nn22{
+    height:100px;
+    width: 500px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+    background-color: black;
+}
+
+
+.last1{
+    height:400px;
+    width: 1300px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 10px solid rgb(92, 75, 75);
+}
+#l11{
+    height:300px;
+    width:300px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 20px;
+    font-weight: 600;
+    background-color: transparent;
+    color: white;
+}
+#l22{
+    height:300px;
+    width:300px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 20px;
+    font-weight: 600;
+    background-color: transparent;
+    color: white;
+}
+#l33{
+    height:300px;
+    width:300px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 20px;
+    font-weight: 600;
+    background-color: transparent;
+    color: white;
+}
+#l44{
+    height:300px;
+    width:300px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 20px;
+    font-weight: 600;
+    background-color: transparent;
+    color: white;
+}
